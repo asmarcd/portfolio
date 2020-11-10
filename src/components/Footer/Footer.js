@@ -6,7 +6,7 @@ import "./style.css";
 function Footer() {
     return (
       <footer className="footer">
-        <span>&#169; Chris Asmar 2020</span>
+        <span>Made by Chris Asmar &#169; 2020</span>
       </footer>
     );
   }

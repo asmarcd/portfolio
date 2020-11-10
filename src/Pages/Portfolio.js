@@ -1,0 +1,1 @@
+// This is going to import Project.js and build the structure of the page, which will render a project for each object in the projects.json array
