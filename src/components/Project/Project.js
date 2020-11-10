@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import "./style.css";
 
 function Project(props) {
@@ -17,6 +17,5 @@ function Project(props) {
         </div>
     );
 };
-
 
 export default Project;

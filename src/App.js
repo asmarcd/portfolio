@@ -8,13 +8,25 @@ import Home from "./Pages/Home";
 
 function App() {
     return (
-        <Router>
-            <div>
+        <div>
+            <Router>
+
                 <Navbar />
-    
+                <Switch>
+                    <Route exact path="/">
+                        <Home />
+                    </Route>
+                    <Route path="/portfolio">
+                        <Portfolio />
+                    </Route>
+                    <Route path="/contact">
+                        <Contact />
+                    </Route>
+                </Switch>
                 <Footer />
-            </div>
-        </Router>
+
+            </Router>
+        </div>
     );
 };
 
