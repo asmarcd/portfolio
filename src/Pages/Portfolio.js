@@ -1,1 +1,30 @@
-// This is going to import Project.js and build the structure of the page, which will render a project for each object in the projects.json array
+import React, { Component } from "react";
+import "./style.css";
+import Project from "./../components/Project/Project";
+import projects from "./../projects.json";
+
+class Portfolio extends Component {
+    state = {
+        projects
+    };
+
+    render() {
+        return (
+            <main className="container">
+                <h1 className="title">Portfolio</h1>
+                {this.state.projects.map(project => (
+                    <Project
+                        name={project.name}
+                        date={project.date}
+                        image={project.image}
+                        alt={project.alt}
+                        description={project.description}
+                        activelink={project.activelink}
+                        githublink={project.githublink}
+                    />))}
+            </main>
+        )
+    }
+}
+
+export default Portfolio;
