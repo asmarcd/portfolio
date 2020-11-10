@@ -13,6 +13,8 @@ class Portfolio extends Component {
                 <h1 className="title">Portfolio</h1>
                 {this.state.projects.map(project => (
                     <Project
+                        id={project.id}
+                        key={project.id}
                         name={project.name}
                         date={project.date}
                         image={project.image}

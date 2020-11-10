@@ -1,8 +1,11 @@
 import React from "react";
 
-function Home () {
+function Home() {
     return (
-        <h1 className="title">Home</h1>
+        <main className="container">
+            <h1 className="title">Home</h1>
+        </main>
+
 
     )
 }

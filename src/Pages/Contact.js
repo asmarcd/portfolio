@@ -1,9 +1,10 @@
 import React from "react";
 
-function Contact () {
+function Contact() {
     return (
-        <h1 className="title">Contact</h1>
-
+        <main className="container">
+            <h1 className="title">Contact</h1>
+        </main>
     )
 }
 
