@@ -1,4 +1,5 @@
 import React from "react";
+import myFace from "./MyFace.jpg";
 
 
 function Home() {
@@ -10,7 +11,7 @@ function Home() {
                         <h1>About Me</h1>
                     </header>
                     <hr />
-                    <img className="headshot" src="#" alt="Chris Asmar Headshot" />
+                    <img className="headshot" src={myFace} alt="Chris Asmar Headshot" />
                     <p>
                         I've been working in tech in a variety of roles for over 7 years. I started off in 2014 at an LA based startup called NationBuilder, teaching people who were running for office for the first time how to build up their digital presence and their campaign infrastructure. Like a lot of young companies, customer-facing reps are often in charge of a wide variety of projects, so I dipped my toes in the water with Customer Success, Sales, Support, Professional Services, Product, and even HR. That's where I got my first glimpse into coding, learning basic HTML, CSS, Liquid, and Ruby on Rails to help customers troubleshoot and improve their sites. I worked at NationBuilder for five years, eventually becoming a manager on the Customer Success team and taking on Sales Operations as well.
           </p>
