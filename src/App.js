@@ -5,27 +5,29 @@ import Footer from "./components/Footer/Footer";
 import Portfolio from "./Pages/Portfolio";
 import Contact from "./Pages/Contact";
 import Home from "./Pages/Home";
+import "./style.css"
 
 function App() {
     return (
-        <div>
-            <Router>
+        <div id="page-container">
+            <div id="content-wrap">
+                <Router>
 
-                <Navbar />
-                <Switch>
-                    <Route exact path="/">
-                        <Home />
-                    </Route>
-                    <Route path="/portfolio">
-                        <Portfolio />
-                    </Route>
-                    <Route path="/contact">
-                        <Contact />
-                    </Route>
-                </Switch>
-                <Footer />
-
-            </Router>
+                    <Navbar />
+                    <Switch>
+                        <Route exact path="/">
+                            <Home />
+                        </Route>
+                        <Route path="/portfolio">
+                            <Portfolio />
+                        </Route>
+                        <Route path="/contact">
+                            <Contact />
+                        </Route>
+                    </Switch>
+                </Router>
+            </div>
+            <Footer />
         </div>
     );
 };
