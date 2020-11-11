@@ -10,7 +10,10 @@ class Portfolio extends Component {
     render() {
         return (
             <main className="container">
-                <h1 className="title">Portfolio</h1>
+                <div className="text-center">
+                    <h1>My Portfolio</h1>
+                    <hr />
+                </div>
                 <div className="card-columns">
                     {this.state.projects.map(project => (
                         <Project
