@@ -11,18 +11,20 @@ class Portfolio extends Component {
         return (
             <main className="container">
                 <h1 className="title">Portfolio</h1>
-                {this.state.projects.map(project => (
-                    <Project
-                        id={project.id}
-                        key={project.id}
-                        name={project.name}
-                        date={project.date}
-                        image={project.image}
-                        alt={project.alt}
-                        description={project.description}
-                        activelink={project.activelink}
-                        githublink={project.githublink}
-                    />))}
+                <div className="card-columns">
+                    {this.state.projects.map(project => (
+                        <Project
+                            id={project.id}
+                            key={project.id}
+                            name={project.name}
+                            date={project.date}
+                            image={project.image}
+                            alt={project.alt}
+                            description={project.description}
+                            activelink={project.activelink}
+                            githublink={project.githublink}
+                        />))}
+                </div>
             </main>
         )
     }
