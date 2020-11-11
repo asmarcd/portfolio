@@ -1,52 +1,42 @@
 [
     {
         "id": 1,
-        "name": "test",
-        "date": "test",
-        "image": "test",
-        "alt": "test",
-        "description": "test",
-        "activelink": "test",
-        "githublink": "test"
+        "name": "Mixr Cocktail App",
+        "date": "Oct 2020",
+        "description": "I'm an amatuer bartender in my free time, and I found myself consistently peeved when I go to make a cocktail and realize I'm missing ingredients. I built Mixr mobile-first with my team to solve that. It tracks your pantry and recommends cocktails you can make based on what you've got on hand, among other cool features for the aspiring mixologist.",
+        "activelink": "https://mixr-cocktail-app.herokuapp.com/",
+        "githublink": "https://github.com/UnexpectedGoat/mixr"
     },
     {
         "id": 2,
-        "name": "test2",
-        "date": "test2",
-        "image": "test2",
-        "alt": "test2",
-        "description": "test2",
-        "activelink": "test2",
+        "name": "GeneriCo Employee Search",
+        "date": "Nov 2020",
+        "description": "I built this as a way of experimenting with combining React with data from an external API. It generates a random set of 50 employees and then allows you to search through them by name as well as sort by a variety of parameters.",
+        "activelink": "https://safe-brook-22749.herokuapp.com/",
         "githublink": "test2"
     },
     {
         "id": 3,
-        "name": "test2",
-        "date": "test2",
-        "image": "test2",
-        "alt": "test2",
-        "description": "test2",
-        "activelink": "test2",
-        "githublink": "test2"
+        "name": "Find my Rep Dashboard",
+        "date": "Sept 2020",
+        "description": "Before I entered tech, I worked in campaign politics, so it's very close to my heart. I orked with a team to build this simple dashboard for voters to quickly get information about who their officials are, how to contact them, and, if they've been in the news, learn a bit about their recent activity.",
+        "activelink": "https://elijah415hz.github.io/election-dashboard/",
+        "githublink": "https://github.com/elijah415hz/election-dashboard"
     },
     {
         "id": 4,
-        "name": "test2",
-        "date": "test2",
-        "image": "test2",
-        "alt": "test2",
-        "description": "test2",
+        "name": "Hourly Planner",
+        "date": "Oct 2020",
+        "description": "This is a simple To Do List site where I mainly wanted to experiment with updating the DOM based on the time of day, as well as develop my abilities using local storage in a browser. Check back at different times of day and you'll see different hours highlighted, so you don't fall behind.",
         "activelink": "test2",
         "githublink": "test2"
     },
     {
         "id": 5,
-        "name": "test2",
-        "date": "test2",
-        "image": "test2",
-        "alt": "test2",
-        "description": "test2",
-        "activelink": "test2",
-        "githublink": "test2"
+        "name": "Weather Forecast Dashboard",
+        "date": "Sept 2020",
+        "description": "This is a simple weather forecast app that I built as I was learning to work with APIs and update the DOM based on different variables. I've learned a lot since I built this, but I like it as an early example of my work as I found my footing as a developer.",
+        "activelink": "https://asmarcd.github.io/weather-dashboard/",
+        "githublink": "https://github.com/asmarcd/weather-dashboard"
     }
 ]

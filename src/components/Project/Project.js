@@ -4,7 +4,6 @@ import "./style.css";
 function Project(props) {
     return (
             <div className="card">
-                <img className="card-img-top" src={props.image} alt={props.alt} />
                 <div className="card-body">
                     <h5 className="card-title">{props.name}</h5>
                     <h6 className="card-subtitle mb-2 text-muted">{props.date}</h6>
