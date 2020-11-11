@@ -23,7 +23,7 @@ function Home() {
                     <a href="/portfolio" className="btn btn-primary">Check out my work</a>
                 </div>
                 <div className="card-footer text-muted">
-                    <a href = "https://www.linkedin.com/feed/">LinkedIn</a> <a href = "https://github.com/asmarcd">Github</a>
+                    <a href="mailto:asmarcd@gmail.com">Email</a> || <a href = "https://www.linkedin.com/feed/">LinkedIn</a> || <a href = "https://github.com/asmarcd">Github</a>
   </div>
             </div>
             <br />
