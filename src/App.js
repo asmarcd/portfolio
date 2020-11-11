@@ -12,7 +12,6 @@ function App() {
         <div id="page-container">
             <div id="content-wrap">
                 <Router>
-
                     <Navbar />
                     <Switch>
                         <Route exact path="/">

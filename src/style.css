@@ -5,6 +5,7 @@
 #page-container {
     position: relative;
     min-height: 100vh;
+    background-image: linear-gradient(to bottom right, gray, white);
 }
 
   #content-wrap {
@@ -17,7 +18,6 @@ body {
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
-    background-image: url("https://www.anupghosal.com/wp-content/uploads/2020/08/laptop-wallpapers-free-hd-download-12-hq-unsplash-laptop-backgrounds-scaled.jpg");
 }
 
 .headshot {
@@ -27,4 +27,9 @@ body {
     max-width: 100%;
     width: 153px;
     height: 222px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.card {
+    width: 80vw
 }
