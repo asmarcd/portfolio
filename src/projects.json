@@ -3,20 +3,28 @@
         "id": 1,
         "name": "Mixr Cocktail App",
         "date": "Oct 2020",
-        "description": "I'm an amatuer bartender in my free time, and I found myself consistently peeved when I go to make a cocktail and realize I'm missing ingredients. I built Mixr mobile-first with my team to solve that. It tracks your pantry and recommends cocktails you can make based on what you've got on hand, among other cool features for the aspiring mixologist.",
+        "description": "I'm an amatuer bartender in my free time, and I found myself consistently frustrated when I go to fulfil a specific cocktail craving and realize I'm missing ingredients. I built Mixr mobile-first with my team to solve that. It tracks your pantry and recommends cocktails you can make based on what you've got on hand, among other cool features for the aspiring mixologist.",
         "activelink": "https://mixr-cocktail-app.herokuapp.com/",
         "githublink": "https://github.com/UnexpectedGoat/mixr"
     },
     {
         "id": 2,
+        "name": "Wandir Journaling App",
+        "date": "Dec 2020",
+        "description": "During the COVID-19 lockdown, I was really missing travel and doing a lot of nostalgic reminiscing about places I've been and things I've done. I built Wandir with a team of 3 other devs to scratch that itch and fill a gap in the market for people specifically looking to orient their journaling and photo sharing around geographic points. Wandir uses overlapping many to many relationships to let users track places they've been and associated journal entries and photos. It's also integrated with Google Maps for easy searching and location tracking for the user.",
+        "activelink": "https://wandir-front.herokuapp.com/",
+        "githublink": "https://github.com/asmarcd/wandir-front-end"
+    },
+    {
+        "id": 3,
         "name": "GeneriCo Employee Search",
         "date": "Nov 2020",
         "description": "I built this as a way of experimenting with combining React with data from an external API. It generates a random set of 50 employees and then allows you to search through them by name as well as sort by a variety of parameters.",
         "activelink": "https://safe-brook-22749.herokuapp.com/",
-        "githublink": "test2"
+        "githublink": "https://github.com/asmarcd/employee-directory"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Find my Rep Dashboard",
         "date": "Sept 2020",
         "description": "Before I entered tech, I worked in campaign politics, so it's very close to my heart. I orked with a team to build this simple dashboard for voters to quickly get information about who their officials are, how to contact them, and, if they've been in the news, learn a bit about their recent activity.",
@@ -24,15 +32,15 @@
         "githublink": "https://github.com/elijah415hz/election-dashboard"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Hourly Planner",
         "date": "Oct 2020",
         "description": "This is a simple To Do List site where I mainly wanted to experiment with updating the DOM based on the time of day, as well as develop my abilities using local storage in a browser. Check back at different times of day and you'll see different hours highlighted, so you don't fall behind.",
-        "activelink": "test2",
-        "githublink": "test2"
+        "activelink": "https://asmarcd.github.io/todo-calendar/",
+        "githublink": "https://github.com/asmarcd/todo-calendar"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Weather Forecast Dashboard",
         "date": "Sept 2020",
         "description": "This is a simple weather forecast app that I built as I was learning to work with APIs and update the DOM based on different variables. I've learned a lot since I built this, but I like it as an early example of my work as I found my footing as a developer.",
