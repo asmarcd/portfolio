@@ -21,7 +21,7 @@ class Portfolio extends Component {
                             key={project.id}
                             name={project.name}
                             date={project.date}
-                            alt={project.alt}
+                            img={project.img}
                             description={project.description}
                             activelink={project.activelink}
                             githublink={project.githublink}
