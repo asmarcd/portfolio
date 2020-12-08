@@ -8,20 +8,20 @@
         "githublink": "https://github.com/UnexpectedGoat/mixr"
     },
     {
-        "id": 2,
-        "name": "Wandir Journaling App",
-        "date": "Dec 2020",
-        "description": "During the COVID-19 lockdown, I was really missing travel and doing a lot of nostalgic reminiscing about places I've been and things I've done. I built Wandir with a team of 3 other devs to scratch that itch and fill a gap in the market for people specifically looking to orient their journaling and photo sharing around geographic points. Wandir uses overlapping many to many relationships to let users track places they've been and associated journal entries and photos. It's also integrated with Google Maps for easy searching and location tracking for the user.",
-        "activelink": "https://wandir-front.herokuapp.com/",
-        "githublink": "https://github.com/asmarcd/wandir-front-end"
-    },
-    {
         "id": 3,
         "name": "GeneriCo Employee Search",
         "date": "Nov 2020",
         "description": "I built this as a way of experimenting with combining React with data from an external API. It generates a random set of 50 employees and then allows you to search through them by name as well as sort by a variety of parameters.",
         "activelink": "https://safe-brook-22749.herokuapp.com/",
         "githublink": "https://github.com/asmarcd/employee-directory"
+    },
+    {
+        "id": 2,
+        "name": "Wandir Journaling App",
+        "date": "Dec 2020",
+        "description": "During the COVID-19 lockdown, I was really missing travel and doing a lot of nostalgic reminiscing about places I've been and things I've done. I built Wandir with a team of 3 other devs to scratch that itch and fill a gap in the market for people specifically looking to orient their journaling and photo sharing around geographic points. Wandir uses overlapping many to many relationships to let users track places they've been and associated journal entries and photos. It's also integrated with Google Maps for easy searching and location tracking for the user.",
+        "activelink": "https://wandir-front.herokuapp.com/",
+        "githublink": "https://github.com/asmarcd/wandir-front-end"
     },
     {
         "id": 4,
