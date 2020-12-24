@@ -24,6 +24,14 @@
         "githublink": "https://github.com/asmarcd/wandir-front-end"
     },
     {
+        "id": 7,
+        "name": "Google Books API Search & Save",
+        "date": "Dec 2020",
+        "description": "This easy-to-use application uses ReactJS, MongoDB Atlas, Express, and Material UI to allow you to search the Google Books API and save books for future reference. I took on this project after I graduated from the UW Coding Bootcamp as a way to refine my skills with React and NoSQL databases, and teach myself Material UI as a CSS Framework.",
+        "activelink": "https://thawing-sea-40533.herokuapp.com/",
+        "githublink": "https://github.com/asmarcd/book-search"
+    },
+    {
         "id": 4,
         "name": "Find my Rep Dashboard",
         "date": "Sept 2020",
