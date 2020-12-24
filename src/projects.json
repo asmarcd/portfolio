@@ -24,20 +24,20 @@
         "githublink": "https://github.com/asmarcd/wandir-front-end"
     },
     {
-        "id": 7,
-        "name": "Google Books API Search & Save",
-        "date": "Dec 2020",
-        "description": "This easy-to-use application uses ReactJS, MongoDB Atlas, Express, and Material UI to allow you to search the Google Books API and save books for future reference. I took on this project after I graduated from the UW Coding Bootcamp as a way to refine my skills with React and NoSQL databases, and teach myself Material UI as a CSS Framework.",
-        "activelink": "https://thawing-sea-40533.herokuapp.com/",
-        "githublink": "https://github.com/asmarcd/book-search"
-    },
-    {
         "id": 4,
         "name": "Find my Rep Dashboard",
         "date": "Sept 2020",
         "description": "Before I entered tech, I worked in campaign politics, so it's very close to my heart. I orked with a team to build this simple dashboard for voters to quickly get information about who their officials are, how to contact them, and, if they've been in the news, learn a bit about their recent activity.",
         "activelink": "https://elijah415hz.github.io/election-dashboard/",
         "githublink": "https://github.com/elijah415hz/election-dashboard"
+    },
+    {
+        "id": 7,
+        "name": "Google Books API Search & Save",
+        "date": "Dec 2020",
+        "description": "This easy-to-use application uses ReactJS, MongoDB Atlas, Express, and Material UI to allow you to search the Google Books API and save books for future reference. I took on this project after I graduated from the UW Coding Bootcamp as a way to refine my skills with React and NoSQL databases, and teach myself Material UI as a CSS Framework.",
+        "activelink": "https://thawing-sea-40533.herokuapp.com/",
+        "githublink": "https://github.com/asmarcd/book-search"
     },
     {
         "id": 5,
