@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Mixr Cocktail App",
         "date": "Oct 2020",
-        "description": "I'm an amatuer bartender in my free time, and I found myself consistently frustrated when I go to fulfil a specific cocktail craving and realize I'm missing ingredients. I built Mixr mobile-first with my team to solve that. It tracks your pantry and recommends cocktails you can make based on what you've got on hand, among other cool features for the aspiring mixologist.",
+        "description": "I'm an amatuer bartender in my free time, and I found myself consistently frustrated when I go to fulfil a specific cocktail craving and realize I'm missing ingredients. I built Mixr mobile-first with my team to solve that. It tracks your pantry and recommends cocktails you can make based on what you've got on hand, among other cool features for the aspiring mixologist. This app won the Fall 2020 UW Coding Bootcamp award for Best UI/UX.",
         "activelink": "https://mixr-cocktail-app.herokuapp.com/",
         "githublink": "https://github.com/UnexpectedGoat/mixr"
     },
@@ -14,6 +14,14 @@
         "description": "I built this as a way of experimenting with combining React with data from an external API. It generates a random set of 50 employees and then allows you to search through them by name as well as sort by a variety of parameters.",
         "activelink": "https://safe-brook-22749.herokuapp.com/",
         "githublink": "https://github.com/asmarcd/employee-directory"
+    },
+    {
+        "id": 8,
+        "name": "Photo Galleria",
+        "date": "Jan 2021",
+        "description": "This photo database app is built with React on the front end and Ruby on Rails on the back. I built it as a way of increasing my skills with using the two in conjunction, and also to work on keeping up good functionality while interacting with state in React on multiple levels at the same time.",
+        "activelink": "https://fathomless-chamber-21540.herokuapp.com/",
+        "githublink": "https://github.com/asmarcd/todo-calendar"
     },
     {
         "id": 2,
@@ -44,8 +52,8 @@
         "name": "Hourly Planner",
         "date": "Oct 2020",
         "description": "This is a simple To Do List site where I mainly wanted to experiment with updating the DOM based on the time of day, as well as develop my abilities using local storage in a browser. Check back at different times of day and you'll see different hours highlighted, so you don't fall behind.",
-        "activelink": "https://asmarcd.github.io/todo-calendar/",
-        "githublink": "https://github.com/asmarcd/todo-calendar"
+        "activelink": "https://github.com/asmarcd/galleria/",
+        "githublink": "https://github.com/asmarcd/galleria"
     },
     {
         "id": 6,
